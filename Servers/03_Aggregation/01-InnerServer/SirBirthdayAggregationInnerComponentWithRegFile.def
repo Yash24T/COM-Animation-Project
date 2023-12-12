@@ -1,0 +1,4 @@
+LIBRARY SirBirthdayAggregationInnerComponentWithRegFile
+EXPORTS
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE

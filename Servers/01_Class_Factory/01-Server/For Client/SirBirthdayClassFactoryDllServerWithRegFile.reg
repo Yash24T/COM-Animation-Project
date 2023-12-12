@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{9133D8EE-6C0D-4A2D-B14E-6D2E57FE669A}]
+@="SirBirthdayClassFactory"
+[HKEY_CLASSES_ROOT\CLSID\{9133D8EE-6C0D-4A2D-B14E-6D2E57FE669A}\InprocServer32]
+@="C:\\WINDOWS\\System32\\SirBirthdayClassFactoryDllServerWithRegFile.dll"

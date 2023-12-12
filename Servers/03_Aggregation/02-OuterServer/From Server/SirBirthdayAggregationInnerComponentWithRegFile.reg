@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{F05B2F1D-E4F8-4790-94C4-1064F062427A}]
+@="SirBirtghdayAggregationInnerDll"
+[HKEY_CLASSES_ROOT\CLSID\{F05B2F1D-E4F8-4790-94C4-1064F062427A}\InprocServer32]
+@="C:\\WINDOWS\\System32\\SirBirthdayAggregationInnerComponentWithRegFile.dll"

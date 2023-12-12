@@ -1,0 +1,4 @@
+LIBRARY SirBirthdayClassFactoryDllServerWithRegFile
+EXPORTS
+	DllGetClassObject	PRIVATE
+	DllCanUnloadNow		PRIVATE

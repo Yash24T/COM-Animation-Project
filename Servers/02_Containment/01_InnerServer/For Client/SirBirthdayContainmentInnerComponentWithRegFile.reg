@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{982E93C9-456D-4553-A125-C663B03C3391}]
+@="SirBirthdayContainmentInner"
+[HKEY_CLASSES_ROOT\CLSID\{982E93C9-456D-4553-A125-C663B03C3391}\InprocServer32]
+@="C:\\WINDOWS\\System32\\SirBirthdayContainmentInnerComponentWithRegFile.dll"

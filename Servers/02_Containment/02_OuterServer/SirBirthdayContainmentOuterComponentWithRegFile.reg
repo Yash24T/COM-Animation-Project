@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{C06D4268-D708-43EA-8814-98645EDC9002}]
+@="SirBirthdayContainmentOuterDll"
+[HKEY_CLASSES_ROOT\CLSID\{C06D4268-D708-43EA-8814-98645EDC9002}\InprocServer32]
+@="C:\\WINDOWS\\System32\\SirBirthdayContainmentOuterComponentWithRegFile.dll"
