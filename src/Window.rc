@@ -1,0 +1,3 @@
+#include "Window.h"
+
+YT_ICON ICON "..\Resources\WinDev.ico"
