@@ -1,0 +1,28 @@
+For class factory
+CClassFcatoryCreateStructureAnimate -> coclass
+
+Interfaces
+1. For animation -> IClassFactoryAnimation
+Functions : Animate
+2. For structure -> IClassFactoryCreateStruture
+Functions : CreateStructure
+
+For containment
+CContainmentCreateStructureAnimate -> CoClass
+
+Interfaces
+Inner
+1. For animation -> IContainmentAnimation
+Outer
+2. For structure -> IContainmentCreateStructure
+
+For Aggregation
+CAggregationCreateStructureAnimate -> CoClass
+
+Interfaces
+Inner
+1. For animation -> IAggregationAnimation
+Outer
+2. For structure -> IAggregationCreateStructure
+
+

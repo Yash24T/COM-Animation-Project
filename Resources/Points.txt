@@ -1,0 +1,26 @@
+With refernce to diya image:
+From Top (y) and left (x)
+
+Central Flame
+left bottom
+x = 215
+y = 155
+
+Left Flame
+left bottom
+x = 90
+y = 123
+
+
+Right Flame
+left bottom
+x = 365
+y = 123
+
+Credit Scene 
+1920 x 1080
+
+Display Sixe for Credit
+895, 255
+
+1835, 825
