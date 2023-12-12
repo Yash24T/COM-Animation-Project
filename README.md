@@ -8,7 +8,7 @@ The Application contains animation showcasing the lollipop diagram for COM inter
 
 Language: C++
 Design Patterns: Class Factory, Containment and Aggregation
-Library Used: Kernel32.lib, User32.lib, Gdi32.lib and Ole32.lib
+Library Used: Kernel32.lib, User32.lib, Gdi32.lib, Gdiplus.lib, Winmm.lib and Ole32.lib
 Technology Used: COM and Win32 SDK
 
 Made by : Yash Thakare
